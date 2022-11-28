@@ -1,7 +1,13 @@
+body{
+    background-image: url(../Images/Fondo_PacificoMar.webp);
+}
+
+
 #restaurante1
 {
     display: inline-block;
     width: 315px;
+    padding-top: 50px;
     
 }
 

@@ -1,7 +1,13 @@
+body{
+    background-image: url(../Images/Fondo_Italiano65.jpg);
+}
+
+
 #restaurante2
 {
     display: inline-block;
     width: 315px;
+    padding-top: 50px;
 }
 
 #restaurante2 a
@@ -9,7 +15,7 @@
     display: inline-block;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
-    color: black;
+    color: white;
     box-shadow: 1px 1px 1px black;
     border-radius: 5px;
 }

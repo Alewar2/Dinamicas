@@ -1,7 +1,13 @@
+body{
+    background-image: url(../Images/Fondo_PolloFrito.jpeg);
+}
+
+
 #restaurante4
 {
     display: inline-block;
     width: 315px;
+    padding-top: 50px;
 }
 
 #restaurante4 a

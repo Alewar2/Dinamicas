@@ -1,8 +1,15 @@
+body{
+    background-image: url(../Images/Fondo_Fritos.jpeg);
+    align-content: center;
+}
+
+
+
 #restaurante3
 {
     display: inline-block;
-    width: 315px;
-    
+    width: 100%;   
+    padding-top: 50px;
 }
 
 #restaurante3 a
